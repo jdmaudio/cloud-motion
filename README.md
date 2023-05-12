@@ -1,3 +1,3 @@
 # cloud-motion
 
-Various methods of obtain a cloud motion vector
+Various methods of obtaining a cloud motion vector
